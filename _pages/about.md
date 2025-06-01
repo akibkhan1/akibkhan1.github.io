@@ -7,7 +7,7 @@ subtitle: PhD Student, MLVision Lab, RIT
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>+1(929)-551-7433 </p>
     <p>76 Chester F Carlson Building,</p>
@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a Ph.D. student in the Center for Imaging Science at Rochester Institute of Technology. I am a Graduate Research Assistant at the MLVision Lab under the supervision of [Dr. Bartosz Krawczyk](https://www.rit.edu/directory/bxkcis-bartosz-krawczyk). I completed my B.Sc. in Computer Science and Engineering, with keen interest on Machine Learning, Computer Vision and Data Science. I am an avid programmer, skilled in Python and C++ with intermediate knowledge on Keras and Pytorch frameworks. My current research focuses on developing trustworthy and robust machine learning algorithms for computer vision applications.
+Hi! I am a Ph.D. student in the Center for Imaging Science at Rochester Institute of Technology. I am a Graduate Research Assistant at the MLVision Lab under the supervision of [Dr. Bartosz Krawczyk](https://www.rit.edu/directory/bxkcis-bartosz-krawczyk). 
+
+I completed my B.Sc. in Computer Science and Engineering, with keen interest on Machine Learning, Computer Vision and Data Science. I am an avid programmer, skilled in Python and C++ with intermediate knowledge on Keras and Pytorch frameworks. 
+
+My current research focuses on developing trustworthy and robust machine learning algorithms for computer vision applications.
