@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [Bangladesh University of Businesss and Technology (BUBT)](https://bubt.edu.bd) as a faculty member for the CSE dept.
+Joined [BUBT](https://bubt.edu.bd) as a faculty member for the CSE dept.
