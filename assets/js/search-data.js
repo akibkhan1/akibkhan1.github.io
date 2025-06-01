@@ -433,16 +433,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-joined-bubt-as-a-faculty-member-for-the-cse-dept",
           title: 'Joined BUBT as a faculty member for the CSE dept.',
+          description: "",
+          section: "News",},{id: "news-joined-the-ph-d-program-at-the-center-for-imaging-science-at-rit",
+          title: 'Joined the Ph.D. program at the Center for Imaging Science at RIT!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
