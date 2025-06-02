@@ -6,8 +6,8 @@ subtitle: PhD Student, MLVision Lab, RIT
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: akib_pic.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>+1(929)-551-7433 </p>
     <p>76 Chester F Carlson Building,</p>
@@ -31,4 +31,4 @@ Hi! I am a Ph.D. student in the Center for Imaging Science at Rochester Institut
 
 I completed my B.Sc. in Computer Science and Engineering, with keen interest on Machine Learning, Computer Vision and Data Science. I am an avid programmer, skilled in Python and C++ with intermediate knowledge on Keras and Pytorch frameworks. 
 
-My current research focuses on developing trustworthy and robust machine learning algorithms for computer vision applications.
+My current research focuses on developing trustworthy and robust machine learning algorithms, typically VLMs, for computer vision applications by adopting the Bayesian Theory of Learning to leverage unertainty estimation.
