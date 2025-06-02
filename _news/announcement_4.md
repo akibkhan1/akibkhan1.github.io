@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined MRIMath LLC, an AI-based healtchare company, for a summer CO-OP!
+Joined [MRIMath LLC](https://www.mrimath.com/home), an AI-based healtchare company, for a summer CO-OP!
