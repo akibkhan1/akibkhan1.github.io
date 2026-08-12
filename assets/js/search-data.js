@@ -477,7 +477,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/akib-mohammed-khan-70b037181", "_blank");
+          window.open("https://www.linkedin.com/in/akib-m-khan-70b037181", "_blank");
         },
       },{
         id: 'social-scholar',
