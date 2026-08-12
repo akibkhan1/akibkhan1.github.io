@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper "Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models" was accepted at the 37th British Machine Vision Conference (BMVC) 2026. 
+My paper "[Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models](https://arxiv.org/abs/2510.13643)" was accepted at the 37th British Machine Vision Conference (BMVC) 2026. 
