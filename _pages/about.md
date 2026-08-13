@@ -31,7 +31,7 @@ Hi! I am a Ph.D. student in the Center for Imaging Science at Rochester Institut
 
 I completed my B.Sc. in Computer Science and Engineering, with keen interest on Machine Learning, Computer Vision and Data Science. I am an avid programmer, skilled in Python and C++ with intermediate knowledge on Keras and Pytorch frameworks. 
 
-My current research focuses on developing trustworthy and robust machine learning algorithms, typically VLMs, for computer vision applications under imperceptible adversarial attacks and adopting the Bayesian Theory of Learning to leverage uncertainty estimation.
+My current research focuses on developing trustworthy and robust machine learning algorithms, typically VLMs, for computer vision applications under imperceptible adversarial attacks through advanced probabilistic and statistical methods.
 
 Outside the lab, my passions are split between the pitch and the PC. I'm a dedicated player and fan of the beautiful game (Up the Arsenal, current Premier League champions!), and a competitive esports enthusiast currently ranked Diamond 1 in Valorant.
 
